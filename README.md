@@ -1,3 +1,5 @@
+# 10조 알고가조
+
 ## 1. 프로젝트 간단 요약
 
 - 오피스 이용자들을 위한 메신저 앱
@@ -8,13 +10,12 @@
 
 - 진행 기간 : 2023.07.12 까지
 - 목표 : slack 기능 구현 및 단점 보완
-- 팀원
+- 팀원 :
 
 | 이진욱 | 소유나 | 박준규 | 신하연 | 김미정 |
 |-------|--------|-------|-------|-------|
-| ![진욱님](./images/진욱님.jpg) | ![유나님](./images/유나님.jpg) | ![준규님](./images/준규님.jpg) | ![하연님](./images/하연님.jpg) | ![미정님](./images/미정님.jpg)
-
-**10조 알고가조 화이팅**
+| [![진욱님](./images/진욱님.jpg)](https://projectlog.tistory.com/) | [![유나님](./images/유나님.jpg)](https://blog.naver.com/seacrab808) | [![준규님](./images/준규님.jpg)](https://velog.io/@junkue20) | [![하연님](./images/하연님.jpg)](https://ddajidevelop.tistory.com/) | [![미정님](./images/미정님.jpg)](https://velog.io/@mysdpy30s)
+&uarr; 사진을 클릭하시면 블로그로 이동합니다 :)
 
 ## 3. 프로젝트 설명 (구현한 기능 및 사진 등)
 
