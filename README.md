@@ -27,3 +27,5 @@
 - Java
 - Javascript
 - Spring
+- Python
+- C++
